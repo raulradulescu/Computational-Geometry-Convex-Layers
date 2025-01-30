@@ -1,4 +1,4 @@
-# Coputational-Geometry-Convex-Layers
+# Computational-Geometry-Convex-Layers
 
 A collection of Python scripts for comparing different convex hull algorithms' performance and visualizing their results.
 
